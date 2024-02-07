@@ -25,7 +25,7 @@ Estou animada com as possibilidades que a análise de dados oferece e comprometi
 
 [Análise dos Dados da Polícia Rodoviária Federal de Acidentes nas Rodovias e Posicionamento de Radares](https://github.com/Suelymessias/Projeto_Analise_PRF)
 
-Este projeto foi realizada uma analise das causas dos acidentes nas rodovias do Brasil e se há relação com o posicionamento dos radares.
+Neste projeto foi realizada uma análise das causas dos acidentes nas rodovias do Brasil e se há relação com o posicionamento dos radares.
 
 ### Insigths
 
@@ -33,7 +33,7 @@ Este projeto foi realizada uma analise das causas dos acidentes nas rodovias do 
 
 - A existência de uma grande parte dos acidentes nas proximidades dos radares, em sua maioria colisões traseiras, sugere a possibilidade de falta de sinalização para alertar sobre a presença desses equipamentos.
 
-- 
+
 
 
 
