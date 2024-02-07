@@ -8,9 +8,9 @@ Olá! Sou Suely Messias, e estou na jornada de transição de carreira para a á
 
 Atualmente, estou imersa em um percurso de estudos que me levou a cursar uma formação FullStack em Data & Analytics. Esta oportunidade tem me permitido aprofundar minhas habilidades essenciais para me tornar uma analista de dados de sucesso.
 
-Possuo domínio em linguagens de programação como SQL e Python, tendo desenvolvido projetos utilizando bibliotecas como Pandas, Numpy, Matplotlib e Seaborn. Além disso, estou familiarizada com ferramentas como Power BI e Excel, as quais utilizo para análise e visualização de dados.
+Possuo domínio em linguagens de programação como SQL e Python, tenho desenvolvido projetos para aprimorar minhas habilidades. Além disso, estou familiarizada com ferramentas como Power BI e Excel, as quais utilizo para análise e visualização de dados.
 
-Neste portfolio, você encontrará alguns projetos que demonstram minha pratica e habilidades como analista de dados
+Neste portfolio, você encontrará alguns projetos que demonstram minha pratica e habilidades como analista de dados.
 
 Estou animada com as possibilidades que a análise de dados oferece e comprometida em aprender e crescer continuamente nessa área em constante evolução. Aguardo as oportunidades que virão e estou pronta para enfrentar os desafios com entusiasmo e determinação.
 
