@@ -1,7 +1,7 @@
-## Bem Vindo(a) ao meu portfolio de Análise de Dados!!
-
-
 ![image](https://github.com/Suelymessias/Portfolio/assets/106834424/e89f3be8-168c-4143-85d9-9d7420dac740)
+
+
+## Bem Vindo(a) ao meu portfolio de Análise de Dados!!
 
 
 Olá! Sou Suely Messias, e estou na jornada de transição de carreira para a área de análise de dados. Com formação em Análise e Desenvolvimento de Sistemas e mais de 8 anos de experiência como gestora de negócios, estive à frente de uma empresa de sucesso no setor alimentício. Durante esse período, fui responsável pela gestão financeira e administrativa, liderando a abertura de uma filial de sucesso e treinando equipes para alcançar os objetivos organizacionais.
