@@ -1,7 +1,7 @@
 ![image](https://github.com/Suelymessias/Portfolio/assets/106834424/e89f3be8-168c-4143-85d9-9d7420dac740)
 
 
-## Bem Vindo(a) ao meu portfolio de Análise de Dados!!
+## Bem Vindo(a) ao meu portfólio de Análise de Dados!!
 
 
 Olá! Sou Suely Messias e estou em transição de carreira para a área de análise de dados. Sou formada em Análise e Desenvolvimento de Sistemas.
