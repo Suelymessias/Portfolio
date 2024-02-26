@@ -4,15 +4,15 @@
 ## Bem Vindo(a) ao meu portfolio de Análise de Dados!!
 
 
-Olá! Sou Suely Messias, e estou na jornada de transição de carreira para a área de análise de dados. Com formação em Análise e Desenvolvimento de Sistemas e mais de 8 anos de experiência como gestora de negócios, estive à frente de uma empresa de sucesso no setor alimentício. Durante esse período, fui responsável pela gestão financeira e administrativa, liderando a abertura de uma filial de sucesso e treinando equipes para alcançar os objetivos organizacionais.
+Olá! Sou Suely Messias, e estou na jornada de transição de carreira para a área de análise de dados sou formada em Análise e Desenvolvimento de Sistemas.
 
-Atualmente, estou imersa em um percurso de estudos que me levou a cursar uma formação FullStack em Data & Analytics. Esta oportunidade tem me permitido aprofundar minhas habilidades essenciais para me tornar uma analista de dados de sucesso.
+Atualmente, estou imersa em um percurso de estudos que me levou a cursar uma formação FullStack em Data & Analytics. Esta oportunidade tem me permitido aprofundar minhas habilidades essenciais e realizar projetos incriveis.
 
-Possuo domínio em linguagens de programação como SQL e Python, tenho desenvolvido projetos para aprimorar minhas habilidades. Além disso, estou familiarizada com ferramentas como Power BI e Excel, as quais utilizo para análise e visualização de dados.
+Possuo domínio em linguagens de programação como SQL e Python, tenho desenvolvido projetos para aprimorar e demostrar minhas habilidades em fornecer analise voltada para resolução de problemas. Além disso, estou familiarizada com ferramentas como Power BI e Excel, as quais utilizo para análise e visualização de dados.
 
 Neste portfolio, você encontrará alguns projetos que demonstram minha pratica e habilidades como analista de dados.
 
-Estou animada com as possibilidades que a análise de dados oferece e comprometida em aprender e crescer continuamente nessa área em constante evolução. Aguardo as oportunidades que virão e estou pronta para enfrentar os desafios com entusiasmo e determinação.
+Estou comprometida em aprender e crescer continuamente nessa área em constante evolução. Aguardo as oportunidades que virão e estou pronta para enfrentar os desafios com entusiasmo e determinação.
 
 ## Contatos
 [Linkedin](www.linkedin.com/in/suely-c-messias-analytics)
@@ -31,7 +31,9 @@ Neste projeto foi realizada uma análise das causas dos acidentes nas rodovias d
 
 - Ao longo do tempo, não tem sido observada uma redução significativa no número de acidentes, destacando a necessidade de implementação de um sistema contínuo de monitoramento e análise de dados.
 
-- A existência de uma grande parte dos acidentes nas proximidades dos radares, em sua maioria colisões traseiras, sugere a possibilidade de falta de sinalização para alertar sobre a presença desses equipamentos.
+- A existência de uma grande parte dos acidentes nas proximidades dos radares, em sua maioria colisões traseiras, sugere a possibilidade de falta de sinalização para alertar sobre a presença desses equipamentos, ou mesmo a falta de atenção dos condutores.
+
+- Os dados de posicionamento de radares não possuem a data de instalação, por esse motivo, não foi realizada uma análise do antes e depois da instalação do mesmo.
 
 
 
