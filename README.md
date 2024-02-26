@@ -4,13 +4,13 @@
 ## Bem Vindo(a) ao meu portfolio de Análise de Dados!!
 
 
-Olá! Sou Suely Messias, e estou na jornada de transição de carreira para a área de análise de dados sou formada em Análise e Desenvolvimento de Sistemas.
+Olá! Sou Suely Messias e estou em transição de carreira para a área de análise de dados. Sou formada em Análise e Desenvolvimento de Sistemas.
 
-Atualmente, estou imersa em um percurso de estudos que me levou a cursar uma formação FullStack em Data & Analytics. Esta oportunidade tem me permitido aprofundar minhas habilidades essenciais e realizar projetos incriveis.
+Atualmente, estou imersa em um programa de estudos que me levou a cursar uma formação FullStack em Data & Analytics. Essa oportunidade tem me permitido aprofundar minhas habilidades essenciais e realizar projetos incríveis.
 
-Possuo domínio em linguagens de programação como SQL e Python, tenho desenvolvido projetos para aprimorar e demostrar minhas habilidades em fornecer analise voltada para resolução de problemas. Além disso, estou familiarizada com ferramentas como Power BI e Excel, as quais utilizo para análise e visualização de dados.
+Possuo domínio em linguagens de programação como SQL e Python, e tenho desenvolvido projetos para aprimorar e demonstrar minhas habilidades na análise e resolução de problemas. Além disso, estou familiarizada com ferramentas como Power BI e Excel, as quais utilizo para análise e visualização de dados.
 
-Neste portfolio, você encontrará alguns projetos que demonstram minha pratica e habilidades como analista de dados.
+Neste portfólio, você encontrará alguns projetos que demonstram minha prática e habilidades como analista de dados.
 
 Estou comprometida em aprender e crescer continuamente nessa área em constante evolução. Aguardo as oportunidades que virão e estou pronta para enfrentar os desafios com entusiasmo e determinação.
 
