@@ -35,7 +35,7 @@ Neste projeto foi realizada uma análise das causas dos acidentes nas rodovias d
 
 - Os dados de posicionamento de radares não possuem a data de instalação, por esse motivo, não foi realizada uma análise do antes e depois da instalação do mesmo.
 
-[Análise de Crédito para Fintech PoD Bank (https://github.com/Suelymessias/Modelagem_Credito_PodBank)]
+[Análise de Crédito para Fintech PoD Bank](https://github.com/Suelymessias/Modelagem_Credito_PodBank)
 
 O principal objetivo deste projeto é desenvolver um modelo de concessão de crédito robusto e confiável para a PoD Bank, uma startup no setor financeiro.
 
