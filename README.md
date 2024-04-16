@@ -39,9 +39,9 @@ Neste projeto foi realizada uma análise das causas dos acidentes nas rodovias d
 
 O principal objetivo deste projeto é desenvolver um modelo de concessão de crédito robusto e confiável para a PoD Bank, uma startup no setor financeiro.
 
-Estou focado em criar um modelo capaz de avaliar o risco de crédito de cada cliente. Essa abordagem nos permitirá identificar com maior precisão os clientes que representam um risco elevado de inadimplência, resultando na minimização de perdas e na otimização da carteira de crédito da PoD Bank.
+Estou focada em criar um modelo capaz de avaliar o risco de crédito de cada cliente. Essa abordagem permitirá identificar com maior precisão os clientes que representam um risco elevado de inadimplência, resultando na minimização de perdas e na otimização da carteira de crédito da PoD Bank.
 
-Atualmente, estou avançando na etapa de feature engineering, onde estou aplicando SQL, Pyspark, Python e criatividade para construir variáveis explicativas. Este processo é fundamental para preparar os dados para a próxima etapa de feature selection, na qual utilizarei algoritmos de machine learning.
+Atualmente, estou avançando na etapa de feature engineering, onde estou aplicando SQL, Pyspark, Python e a criatividade para construir variáveis explicativas. Este processo é fundamental para preparar os dados para a próxima etapa de feature selection, na qual utilizarei algoritmos de machine learning.
 
 
 
