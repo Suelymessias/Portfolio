@@ -3,16 +3,15 @@
 
 ## Bem Vindo(a) ao meu portfólio de Análise de Dados!
 
+Olá! Sou Suely Messias, analista de dados com formação em Análise e Desenvolvimento de Sistemas e atuação prática em projetos orientados à resolução de problemas reais do negócio.
 
-Olá! Sou Suely Messias e sou analista de dados com formação em Análise e Desenvolvimento de Sistemas.
+Atualmente, atuo como Analista de Negócios na PoD Academy, onde participo de todo o ciclo de desenvolvimento de produtos e decisões estratégicas baseadas em dados. Também estou em constante evolução profissional, com foco em Data & Analytics, aprofundando conhecimentos em análise exploratória, visualização de dados, modelagem estatística e cloud computing.
 
-Atualmente, estou imersa em um programa de estudos que me levou a cursar uma formação FullStack em Data & Analytics. Essa oportunidade tem me permitido aprofundar minhas habilidades essenciais e realizar projetos incríveis.
+Tenho experiência com Python, SQL, PySpark, Power BI, Excel, Google Colab, BigQuery e AWS. Meus projetos seguem o framework CRISP-DM, que garante uma abordagem estruturada e orientada ao entendimento e às metas do negócio.
 
-Possuo domínio em linguagens de programação como SQL e Python, e tenho desenvolvido projetos para aprimorar e demonstrar minhas habilidades na análise e resolução de problemas. Além disso, estou familiarizada com ferramentas como Power BI e Excel, as quais utilizo para análise e visualização de dados.
+Neste portfólio, você encontrará projetos que demonstram minha capacidade de análise, visualização e comunicação de dados de forma clara e estratégica — sempre com foco em gerar valor para as organizações.
 
-Neste portfólio, apresento uma seleção de projetos que ilustram minha experiência e habilidades como analista de dados, com um enfoque voltado para as necessidades do negócio. Meus projetos são conduzidos seguindo o framework CRISP-DM (Cross-Industry Standard Process for Data Mining), que se destaca pela sua abordagem estruturada na compreensão e organização das demandas do negócio. Através dessa metodologia, busco não apenas compreender os requisitos do projeto, mas também garantir o sucesso em sua conclusão, alinhando-o de forma precisa com os objetivos do negócio.
-
-Estou comprometida em aprender e crescer continuamente nessa área em constante evolução. Aguardo as oportunidades que virão e estou pronta para enfrentar os desafios com entusiasmo e determinação.
+Sou movida por desafios, aprendizado contínuo e pela oportunidade de transformar dados em decisões.
 
 ## Contatos
 [Linkedin](www.linkedin.com/in/suely-c-messias-analytics)
